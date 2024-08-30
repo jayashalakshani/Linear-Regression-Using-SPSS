@@ -37,7 +37,7 @@ Std. Error of the Estimate: The standard error of the estimate is 1534.018, repr
 # ANOVA Table
 ![image](https://github.com/user-attachments/assets/037a601e-8ea2-4888-a834-2dc939e5ce2c)
 
-F-value: The F-value is 577.118 with a significance level (Sig.) of <0.001, indicating that the overall model is statistically significant, and the experince has a significant impact on income.
+F-value: The F-value is 577.118 with a significance level (Sig.) of <0.001, indicating that the overall model is statistically significant, and the experience has a significant impact on income.
 
 # Coefficients Table
 ![image](https://github.com/user-attachments/assets/1f23c484-5c5d-49a2-8dfe-d310d447867a)
@@ -48,6 +48,7 @@ Experience (Slope): 2,014.041 is the slope for experience, meaning that for each
 
 # Simple Linear Regression Equation
 ![image](https://github.com/user-attachments/assets/f453447b-5219-4ce1-be28-fa57da94c8e2)
+
 Since experience has the highest correlation with income, the simple linear regression equation using experience as the sole predictor is:
 Income = 2,014.041 + 28,248.447 × Experience
 This equation indicates that income increases by $2,162.404 for each additional year of experience.
